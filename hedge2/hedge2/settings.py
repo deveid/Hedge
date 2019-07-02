@@ -25,7 +25,7 @@ SECRET_KEY = 'n_16j=5g=uw(zwiw9%ibg*tj2!fe+dhcn!j#x^#$8ep6gedh82'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = ['8b7eb517.ngrok.io','127.0.0.1']
+ALLOWED_HOSTS = ['8b7eb517.ngrok.io','127.0.0.1','http://nittan.herokuapp.com/']
 
 
 # Application definition
