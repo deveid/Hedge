@@ -8,6 +8,7 @@ chardet==3.0.4
 Click==7.0
 click-plugins==1.1.1
 cryptography==2.6.1
+whitenoise
 cycler==0.10.0
 Django==2.1.7
 django-formtools==2.1
