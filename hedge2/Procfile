@@ -1,3 +1,1 @@
-web: gunicorn Nittan.wsgi --pythonpath ../Nittan --log-file -
-
-
+web: gunicorn Nittan.wsgi --log-file -
