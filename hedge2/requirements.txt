@@ -27,6 +27,7 @@ Flask-RESTful==0.3.7
 Flask-SQLAlchemy==2.4.0
 gcloud==0.17.0
 googleapis-common-protos==1.5.8
+gunicorn
 httplib2==0.12.1
 idna==2.8
 itsdangerous==1.1.0
