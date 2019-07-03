@@ -1,1 +1,1 @@
-web: gunicorn hedge2.wsgi --log-file -
+web: gunicorn hedge2.wsgi --preload --workers 1
