@@ -115,7 +115,7 @@ def otp_register(request):
                 # otp_session_data is stored in session.
                 response_data = {'Message':'Success'}  
                 user = regform.save()             
-                return redirect('Nittan:verify')
+                return redirect('Nittan:login')
     else:
         regform = RegistrationForm()
     context = {}
