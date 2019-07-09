@@ -102,7 +102,7 @@ def otp_register(request):
             user=regform.save()
             if user.id:
                 api_key='7257c278-4852-11e9-8806-0200cd936042'
-                OTP_VALUE=random.choice(range(1000,9999))
+                #OTP_VALUE=random.choice(range(1000,9999))
                 first_url = "https://2factor.in/API/V1/"
                 api=first_url+api_key
                 url=api+'/SMS/'+'234'+phone_number+'/AUTOGEN'+'/OTPSEND'
