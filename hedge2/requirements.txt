@@ -10,7 +10,7 @@ click-plugins==1.1.1
 cryptography==2.6.1
 whitenoise
 cycler==0.10.0
-Django==2.1.7
+Django==2.2.24
 django-formtools==2.1
 django-mathfilters==0.4.0
 django-otp==0.5.2
