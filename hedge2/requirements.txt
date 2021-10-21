@@ -1,6 +1,6 @@
 aniso8601==6.0.0
 asn1crypto==0.24.0
-Babel==2.6.0
+Babel==2.9.1
 bob.extension==3.1.0
 certifi==2019.3.9
 cffi==1.12.2
